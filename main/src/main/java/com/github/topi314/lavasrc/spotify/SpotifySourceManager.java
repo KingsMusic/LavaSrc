@@ -401,7 +401,7 @@ public class SpotifySourceManager extends MirroringAudioSourceManager implements
 					}
 				}
 			}
-			JsonBrowser rjson = this.getJson(CLIENT_API_BASE + "inspiredby-mix/v2/seed_to_playlist/spotify:" + seedType + ":" + seed + "?response-format=json", true, this.preferAnonymousToken);
+			//JsonBrowser rjson = this.getJson(CLIENT_API_BASE + "inspiredby-mix/v2/seed_to_playlist/spotify:" + seedType + ":" + seed + "?response-format=json", true, this.preferAnonymousToken);
 			JsonBrowser mediaItems = rjson.get("mediaItems");
 			if (mediaItems.isList() && mediaItems.values().size() > 0) {
 				String playlistId = mediaItems.index(0).get("uri").text().split(":")[2];
