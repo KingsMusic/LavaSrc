@@ -327,7 +327,7 @@ PATCH /v4/lavasrc/config
 
 | Field          | Type   | Description               |
 |----------------|--------|---------------------------|
-| ?mediaAPIToken | string | The Apple Music api token |
+| ?mediaAPIToken | strin | The Apple Music api token |
 
 ##### Deezer Config Object
 
