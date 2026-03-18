@@ -23,7 +23,7 @@
 | Spotify                                             | 📁💿🎵🧑🔍📻🔬📜 | [Mirror](#what-is-mirroring) | [@topi314](https://github.com/topi314)                                                                                 |
 | Apple Music                                         | 📁💿🎵🧑🔍🔬 | [Mirror](#what-is-mirroring) | [@ryan5453](https://github.com/ryan5453)                                                                               |
 | Deezer                                              | 📁💿🎵🧑🔍📻🔬📜 | Direct                       | [@topi314](https://github.com/topi314), [@ryan5453](https://github.com/ryan5453), [@viztea](https://github.com/viztea) |
-| Yandex                                              | 📁💿🎵🧑🔍📻🔬📜 | Direct                       | [@agutinvboy](https://github.com/agutinvboy)                                                                           |
+| Yandex                                              | 📁💿🎵🧑🔍📻🔬📜 | Diret                       | [@agutinvboy](https://github.com/agutinvboy)                                                                           |
 | Flowery TTS                                         |                | Direct                       | [@bachtran02](https://github.com/bachtran02)                                                                           |
 | YouTube (Music)                                     | 🔬📜           | N/A                          | [@topi314](https://github.com/topi314), [@DRSchlaubi](https://github.com/DRSchlaubi)                                   |
 | VK Music                                            | 📁💿🎵🧑🔍📻🔬📜 | Direct                       | [@Krispeckt](https://github.com/Krispeckt)                                                                             |
